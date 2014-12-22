@@ -25,6 +25,58 @@
          "properties" : {
             "IP Address" : "86.163.52.126"
          }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               120.0933,
+               30.8703
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "IP Address" : "122.225.97.69"
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               120.0933,
+               30.8703
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "IP Address" : "122.225.97.81"
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               120.0933,
+               30.8703
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "IP Address" : "122.225.97.82"
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               120.0933,
+               30.8703
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "IP Address" : "122.225.97.93"
+         }
       }
    ],
    "type" : "FeatureCollection"
