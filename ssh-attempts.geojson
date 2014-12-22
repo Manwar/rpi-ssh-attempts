@@ -1,0 +1,31 @@
+{
+   "features" : [
+      {
+         "geometry" : {
+            "coordinates" : [
+               116.3883,
+               39.9289
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "IP Address" : "61.234.146.22"
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               -0.1052,
+               51.5954
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "IP Address" : "86.163.52.126"
+         }
+      }
+   ],
+   "type" : "FeatureCollection"
+}
